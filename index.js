@@ -66,11 +66,11 @@ function flashCount(){
     if(count === 0) {
       count2 += 1;
     };
-    if (count2 === 61) {
+    if (count2 === 60) {
       count2 = 0;
       count3 += 1;
     } ;
-    if (count3 === 61) {
+    if (count3 === 60) {
       count3 = 0;
       count4 += 1;
     } ;
